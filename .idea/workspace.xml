@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="852f1c2a-6840-4e0f-90e9-1a9256747a1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2Bn0LiKoTgyh9wqvfmPUBfgJNp5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="852f1c2a-6840-4e0f-90e9-1a9256747a1c" name="Default Changelist" comment="" />
+      <created>1657526488041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657526488041</updated>
+      <workItem from="1657526489119" duration="9431000" />
+      <workItem from="1657619205674" duration="5152000" />
+      <workItem from="1657705733580" duration="5541000" />
+      <workItem from="1657791239968" duration="10221000" />
+      <workItem from="1657940550273" duration="178000" />
+      <workItem from="1658128969795" duration="10169000" />
+      <workItem from="1658223154647" duration="5502000" />
+      <workItem from="1658301876697" duration="9534000" />
+      <workItem from="1658395621501" duration="14799000" />
+      <workItem from="1658830360635" duration="6989000" />
+      <workItem from="1658907081854" duration="10582000" />
+      <workItem from="1659000970343" duration="18877000" />
+      <workItem from="1659174344274" duration="2689000" />
+      <workItem from="1659338473646" duration="7728000" />
+      <workItem from="1659432672570" duration="4931000" />
+      <workItem from="1659605560377" duration="19047000" />
+      <workItem from="1659746803838" duration="63000" />
+      <workItem from="1659778306666" duration="4977000" />
+      <workItem from="1659943526739" duration="648000" />
+      <workItem from="1659947330451" duration="2564000" />
+      <workItem from="1660037488875" duration="3844000" />
+      <workItem from="1683893094836" duration="821000" />
+      <workItem from="1689348365582" duration="810000" />
+      <workItem from="1690086007182" duration="429000" />
+      <workItem from="1690208913626" duration="1085000" />
+      <workItem from="1690727868132" duration="493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="587" y="389" key="NewPhpFileDialog" timestamp="1690208920727">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="587" y="389" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1690208920727" />
+    <state x="782" y="467" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1689348562784" />
+  </component>
+</project>
